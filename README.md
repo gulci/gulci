@@ -1,4 +1,4 @@
-# Mario Muñiz
+# gulci[^1]
 
 I love engineering and developing the frontends and backends of modern web applications.
 
@@ -12,3 +12,5 @@ I enjoy amateur astrophotography, gaming, and my Mazda Miata.
 - Twitter: [@mariogulci](https://twitter.com/mariogulci)
 - Instagram: [@mariogulci](https://instagram.com/mariogulci)
 - My website: [gulci.codes](https://gulci.codes)
+
+[^1]: gulci = mario caesar-shifted 20 times
