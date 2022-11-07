@@ -9,7 +9,6 @@ In the past, I have worked for [CovalentCreative](https://covalentcreative.com),
 I enjoy amateur astrophotography, gaming, and my Mazda Miata.
 
 ## Contact
-- Twitter: [@mariogulci](https://twitter.com/mariogulci)
 - Instagram: [@mariogulci](https://instagram.com/mariogulci)
 - My website: [gulci.codes](https://gulci.codes)
 
