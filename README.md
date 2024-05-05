@@ -10,6 +10,5 @@ I enjoy amateur astrophotography, gaming, and my Mazda Miata.
 
 ## Contact
 - Instagram: [@mariogulci](https://instagram.com/mariogulci)
-- My website: [gulci.codes](https://gulci.codes)
 
 [^1]: gulci = mario caesar-shifted 20 times
